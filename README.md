@@ -23,20 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+AUDIO - Falando sobre a tecnologia em ingles
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+DEEPGRAM
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Peguei um texto sobre a tecnologia e coloquei para que a ia coloque uma voz em ingles
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![37c19c8c-e4c1-499e-b3e6-dad5aeb987b7](https://github.com/D13g0C3z4r3/lab-natty-or-not/assets/120071175/4a1fb072-f137-46d6-a720-5edcbfe55121)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Muito legal para o aprendizado
 
 ### Exemplos e Insigths
 
